@@ -5,7 +5,7 @@ Lab 학생들 기초 학습 자료
 
 ## Level #01 Keras를 이용한 CNN 이해 및 활용하기
 
-### 01 Visualizing intermediate activation in CNN
+### 01 Visualizing what convnets learn (Visualizing intermediate activation in CNN )
 * Visualizing intermediate activation in Convolutional Neural Networks with Keras
 https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0
 
