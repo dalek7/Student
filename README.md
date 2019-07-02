@@ -14,6 +14,10 @@ Code : https://github.com/gabrielpierobon/cnnshapes
 * Understanding CNN with keras - Digit Recognizer
 https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras
 
+* How to visualize convolutional features in 40 lines of code (optional)
+https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030
+
+Code : https://github.com/fg91/visualizing-cnn-feature-maps/blob/master/filter_visualizer.ipynb
 
 ### 02 Using the pretrained network 
 * Keras Tutorial : Using pre-trained Imagenet models
