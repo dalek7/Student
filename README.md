@@ -7,9 +7,13 @@ Lab 학생들 기초 학습 자료
 
 ### 01 Visualizing what convnets learn (Visualizing intermediate activation in CNN )
 * Visualizing intermediate activation in Convolutional Neural Networks with Keras
+```
+Doc :
 https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0
 
 Code : https://github.com/gabrielpierobon/cnnshapes
+data : https://www.kaggle.com/dawgwelder/keras-cnn-build/data (Kaggle 가입 필요)
+```
 
 * Understanding CNN with keras - Digit Recognizer
 https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras
