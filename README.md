@@ -2,7 +2,7 @@
 Lab 학생들 기초 학습 자료
 
 ## 1. Keras 활용 기초
-### Keras 모델, weights 저장하고 불러오기 (Save Model Weights and Architecture Together)
+### A. Keras 모델, weights 저장하고 불러오기 (Save Model Weights and Architecture Together)
 * 중간에 Save Model Weights and Architecture Together 부터 보면 됩니다.
 ```
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/
