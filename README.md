@@ -36,8 +36,13 @@ https://github.com/fg91/visualizing-cnn-feature-maps/blob/master/filter_visualiz
 https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
 ```
 
+## 3. Time-series
+#### Everything you can do with a time series
+```
+https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series
+```
 
-## 3. Keras 활용 기초
+## 4. Keras 활용 기초
 ### A. Keras 모델, weights 저장하고 불러오기 (Save Model Weights and Architecture Together)
 * 중간에 Save Model Weights and Architecture Together 부터 보면 됩니다.
 ```
@@ -48,4 +53,10 @@ https://machinelearningmastery.com/save-load-keras-deep-learning-models/
 * callback 함수를 이용하기
 ```
 https://github.com/dalek7/Student/blob/master/notebook/MNIST_CNN_callbacks.ipynb
+```
+
+## 5. Case study
+### A. APTOS 2019 Blindness Detection
+```
+https://www.kaggle.com/c/aptos2019-blindness-detection
 ```
