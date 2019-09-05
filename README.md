@@ -34,6 +34,9 @@ https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
 #### Everything you can do with a time series
 https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series
 
+#### 7 Time Series Datasets for Machine Learning
+https://machinelearningmastery.com/time-series-datasets-for-machine-learning/
+
 ## 4. Keras 활용 기초
 ### A. Keras 모델, weights 저장하고 불러오기 (Save Model Weights and Architecture Together)
 * 중간에 Save Model Weights and Architecture Together 부터 보면 됩니다.
