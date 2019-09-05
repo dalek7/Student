@@ -55,3 +55,7 @@ https://www.kaggle.com/c/aptos2019-blindness-detection
 * 대표 kernel : 
 https://www.kaggle.com/nivedas/aptos-blindness-detection-basic-cnn
 
+
+### Dataset
+* UC Irvine Machine Learning Repository
+http://archive.ics.uci.edu/ml/index.php
