@@ -57,5 +57,11 @@ https://www.kaggle.com/nivedas/aptos-blindness-detection-basic-cnn
 
 
 ### Dataset
-* UC Irvine Machine Learning Repository
+* UC Irvine Machine Learning Repository <br/>
 http://archive.ics.uci.edu/ml/index.php
+
+
+## MISC.
+### Dataframe
+* Dataframe 만들기 <br/> https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/
+* train/test set 나누기 <br/> https://pythonhealthcare.org/2018/12/22/112-splitting-data-set-into-training-and-test-sets-using-pandas-dataframes-methods/
